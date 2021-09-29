@@ -1,0 +1,25 @@
+<!--pages/qufu/qufu.wxml-->
+<view class="box">
+     <swiper autoplay="auto" interval="3000" indicator-dots circular='true'  
+     style="width: 675rpx; height: 500rpx; display: block; box-sizing: border-box; left: NaNrpx; top: NaNrpx">
+     <swiper-item><image mode="widthFix" src="/images/4.1.jpg"  style="width: 749rpx; height: 448rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     <swiper-item ><image mode="widthFix" src="/images/4.2.png" style="width: 722rpx; height: 443rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     <swiper-item><image mode="widthFix" src="/images/4.3.jpg" style="width: 424rpx; height: 252rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     </swiper>
+ </view>  
+<view class="box">
+  <view class="title">孔子故里，世界遗产城</view>
+  <view class="textstyle01">
+  <view class="boxmodel01">
+    曲阜，是伟大的思想家、教育家、儒家学派创始人——孔子的故乡，是黄帝生地、神农故都、商殷故国、周汉鲁都，是东方文化重要发祥地，被誉为“东方圣城”，亦被称为“东方耶路撒冷”。地处山东省西南部，北距省会济南135公里，东连泗水、西抵兖州、南临邹城、北望泰山，辖8个镇、4个街道，457个村居，总面积815平方公里，截止2020年底，常住人口64.99万。2020年，全市预计实现地区生产总值364亿元，完成一般公共预算收入24亿元。
+  </view>
+  <view class="boxmodel02">
+    曲阜古为鲁国国都，旅游资源丰富，文化底蕴厚重，是国务院首批公布的全国24个历史文化名城之一，被命名为第一批中国优秀旅游城市。世界文化遗产孔庙、孔府、孔林“三孔”历久弥新，尼山圣境、孔子博物馆、孔子研究院“新三孔”蒸蒸日盛，尼山世界儒学中心搭建起全球儒学研究传播实体平台。境内拥有3A级以上景区14个，“三孔”景区2007年被评为国家AAAAA级旅游景区；各类文物点819处、各级文物保护单位195处，非物质文化遗产205项，祭孔大典为国家首批非物质文化遗产。联合国教科文组织孔子教育奖颁奖、尼山世界文明论坛、国际儒学论坛等文化盛典在此举办，曲阜国际孔子文化节为中国最具国际影响力十大节庆活动之一。
+  </view>
+  <view class="boxmodel03">
+    曲阜高铁纵横交汇、高速四通八达，是鲁西南新兴的交通枢纽城市；曲阜产业门类丰富、市场经济活跃，是一座充满活力的创业之城；曲阜山水钟灵、生态优美，是一座生态宜居的绿色之城，先后被评为国家科技进步先进市、国家卫生城市、国家园林城市、国家生态文明建设示范市、国家森林城市、首批国家全域旅游示范区，荣登中国特色魅力城市200强及世界特色魅力城市200强。
+  </view>    
+  </view>
+</view>
+
+

@@ -1,0 +1,26 @@
+/* pages/index/index.wxss */
+.textstyle01{
+  color: darkslategray;
+  letter-spacing: 5px;
+  text-indent: 30px;
+  line-height: 20px;
+}
+.boxmodel01{
+  width: 80%;
+  padding: 20px;
+  border: 3px dashed rgb(51, 53, 216);
+  margin: 20px;
+}
+.boxmodel02{
+  width: 80%;
+  padding: 20px;
+  border: 3px dashed rgb(51, 53, 216);
+  margin: 20px;
+}
+.boxmodel03{
+  width: 80%;
+  padding: 20px;
+  border: 3px dashed rgb(51, 53, 216);
+  margin: 20px;
+}
+

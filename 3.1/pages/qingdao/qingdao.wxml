@@ -1,0 +1,25 @@
+<!--pages/qingdao/qingdao.wxml-->
+<view class="box">
+     <swiper autoplay="auto" interval="3000" indicator-dots circular='true'  
+     style="width: 675rpx; height: 500rpx; display: block; box-sizing: border-box; left: NaNrpx; top: NaNrpx">
+     <swiper-item><image mode="widthFix" src="/images/3.3.jpg"  style="width: 749rpx; height: 448rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     <swiper-item ><image mode="widthFix" src="/images/3.2.jpg" style="width: 722rpx; height: 443rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     <swiper-item><image mode="widthFix" src="/images/3.1.jpg" style="width: 424rpx; height: 252rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     </swiper>
+ </view>  
+<view class="box">
+  <view class="title">红瓦绿树，碧海蓝天——我与青岛</view>
+  <view class="textstyle01">
+  <view class="boxmodel01">
+    青岛，是我的家乡，从小到大生长的地方，夏日的栈桥，人来人往十分忙碌，许多人第一次认识青岛就是在这里，碧海蓝天，红瓦绿树，简直是青春系电影的天然片场。小时候谁也没想到，大学路有一天会成为像艺术馆一样的文青打卡圣地。去海水浴场洗海澡是青岛人夏日的娱乐方式，也有人管这个叫“下饺子”，不过孩子们最喜欢的还是拿着小桶小铲，挖蛤蜊，抓螃蟹。靠海吃海，所以青岛人的各个节气时令，大多以海鲜作为记号，鲅鱼、海蛎子、蛤蜊、螃蟹......
+  </view>
+  <view class="boxmodel02">
+    青岛很美，特别宜居，心情不好也简单，就去看海，早晨吸一口奥帆的空气，心情随着海浪沉浮，然后消散在书城的教辅、书籍、杂质、CD里，可是青岛也很魔幻，像乐高世界，让人难以欣赏这种统一的城市之美。
+  </view>
+  <view class="boxmodel03">
+    你不知道哪一个瞬间，就爱上了这座海边小城，青岛，你很难定义它。任何语言，都是局部意义上的它，抱怨却又深爱，离开就会想念，见证我所有的美丽与忧愁，高光与低谷，这就是青岛。非要用一个词来概括青岛，总是很难。是历史情怀、活力现代？还是人杰地灵、钟灵毓秀？这些拼凑起来，才是青岛的样子。
+  </view>    
+  </view>
+</view>
+
+

@@ -1,0 +1,24 @@
+<!--pages/taian/taian.wxml-->
+<view class="box">
+     <swiper autoplay="auto" interval="3000" indicator-dots circular='true'  
+     style="width: 675rpx; height: 500rpx; display: block; box-sizing: border-box; left: NaNrpx; top: NaNrpx">
+     <swiper-item><image mode="widthFix" src="/images/5.1.jpg"  style="width: 749rpx; height: 448rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     <swiper-item ><image mode="widthFix" src="/images/5.2.jpg" style="width: 722rpx; height: 443rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     <swiper-item><image mode="widthFix" src="/images/5.3.jpg" style="width: 424rpx; height: 252rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     </swiper>
+ </view>  
+<view class="box">
+  <view class="title">泰山安则四海皆安</view>
+  <view class="textstyle01">
+  <view class="boxmodel01">
+    泰安因泰山而得名，“泰山安则四海皆安”，寓国泰民安之意，城区位于泰山脚下，依山而建，山城一体。境内的泰山是国家重点风景名胜区，有“五岳之首”、“天下第一山”的美誉，是世界自然与文化遗产。泰安市于1982年被国务院列为第一批对外开放旅游城市。是鲁中地区中心城市之一，中国优秀旅游城市，国家历史文化名城。
+  </view>
+  <view class="boxmodel02">
+    泰山是我国的“五岳”之首，又称岱山、岱宗、岱岳、东岳、泰岳等。名称之多，实为全国名山之冠。春秋时改称泰山。泰山前邻孔子故里曲阜，背依泉城济南，面积达426平方千米，主峰玉皇顶海拔1532.7米，气势雄伟，拔地而起，有“天下第一山”之美誉。几千年来一直是东方政治、经济、文化的中心。泰山有着深厚的文化内涵，其古建筑主要为明清的风格，将建筑、绘画、雕刻、山石、林木融为一体，是东方文明伟大而庄重的象征。1987年泰山被联合国教科文组织列入世界自然文化遗产名录。
+  </view>
+  <view class="boxmodel03">
+    泰山兼具古、丽、幽、妙，摩崖碑碣数不胜数，庙宇观堂满山遍布，山势壮丽，自然景观巍峨、雄奇、沉浑、峻秀。全山有古建筑群20多处，历史文化遗迹2000多处，历代文人雅士吟咏题刻和碑记无数。泰山的自然风光更是泰山引人之处，泰山高峰峻拔，雄伟多姿，既是“天然山岳公园”，又是“东方历史文化缩影”。泰山山谷幽深，松柏漫山，著名风景名胜有天柱峰、日观峰、百丈崖、仙人桥、五大夫松、望人松、龙潭飞瀑、云桥飞瀑、三潭飞瀑等。
+  </view>    
+  </view>
+</view>
+
